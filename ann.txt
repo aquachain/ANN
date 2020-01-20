@@ -1,0 +1,164 @@
+[center][img]https://aquachain.github.io/img/a100.png[/img][/center][center][b][size=60pt]Aquachain[/size][/b][/center]
+[center][b]Since 03-03-2018[/b][/center]
+[center][b]ETH fork (Web3 Compatible, Smart Contracts, etc)[/b][/center]
+[center][b]PURE POW - CPU/GPU MINED[/b] [color=red][/color][/center]
+[center][b]SMART CONTRACTS + 240 SECOND BLOCKS[/b][/center]
+[center][b]IMMUTABILITY + SCHEDULED HARD FORKS[/b][/center]
+[center][b]NO ICO, NO PRE-MINE, NO AIRDROP, NO PRESALE[/b][/center]
+[center][b]NO TOKEN STANDARD + NO BAILOUTS + NO MASTERNODES[/b][/center]
+[center][b]NO, CLAYMORE WILL NOT WORK[/b][/center]
+[center][b]Lightweight Alt-ethereum[/b][/center]
+
+
+[center][b][size=15pt][url=https://telegra.ph/Aquachain-Resources-05-26]About the coin[/url] (basics):[/size][/b][/center]
+[center][b]Smart Contracts[/b] [i](Ethereum Solidity compatible)[/i][/center]
+[center][b]Scheduled maintenance hardforks[/b][/center]
+[center][b]No [i]token standards[/i][/b][/center]
+[center][b]No refunds, no bailouts[/b][/center]
+[center][b]Lightweight, More modular codebase[/b][/center]
+[center][b]ASIC resistance[/b][/center]
+
+[center][b]Algo: [s]ethash,[/s] [color=green][b]argon2id[/b][/color][/b] (since block 22800)[/center]
+[center][b]Supply (max limit):[/b] 42000000[/center]
+[center][b]Supply (current): https://aquacha.in/supply[/b][/center]
+[center][b]Reward:[/b] 1 coin per block [i]plus uncle rewards[/i][/center]
+[center][b]Target block time:[/b] 4 minute blocks (240 seconds)[/center]
+[center][b]Ticker: AQUA[/b][/center]
+[center][b]Forked from:[/b] ETH v1.8 iceberg[/center]
+[center][b]EVM ChainID: 61717561[/b][/center]
+[center][b]Suggested gas price: 0.01 GWEI[/b][/center]
+[center][b]Current Algorithm: argon2id[/b][/center]
+
+[center][size=12pt][b]WEBSITE[/b][/size][/center]
+[center][url=https://aquachain.github.io]https://aquachain.github.io[/url][/center]
+[center][url=https://aquacha.in]https://aquacha.in[/url][/center]
+
+[center][b][size=15pt]Wallet[/size][/b][/center]
+[center][url=https://download.mycrypto.com]MyCrypto Desktop[/url][/center]
+
+[center][size=12pt][b]DOWNLOADS[/b][/size][/center]
+[center][url=https://gitlab.com/aquachain/aquachain/tags]Tagged Releases[/url][/center]
+[center][url=https://github.com/aquanetwork/aquachain/releases]Old Tagged Releases[/url][/center]
+[center][url=https://aquacha.in/latest/?sort=time&order=desc]Latest Downloads (binary releases, etc)[/url][/center]
+
+[center][size=12pt][b]TRADING[/b][/size][/center]
+[center][url=https://safe.trade/trading/aquabtc]SAFE TRADE[/url][/center]
+
+[center][size=12pt][b]SOURCE CODE[/b][/size][/center]
+[center][url=https://gitlab.com/aquachain/aquachain]Core[/url][/center]
+[center][url=https://github.com/aquachain]Extras[/url][/center]
+
+[center][size=12pt][b]AQUAPAPER[/b][/size][/center]
+[center][url=https://aquachain.github.io/aquapaper.html]https://aquachain.github.io/aquapaper.html[/url][/center]
+
+[center][size=12pt][b]MAILING LIST[/b][/size][/center]
+[center][url=https://groups.google.com/d/forum/aquachain]https://groups.google.com/d/forum/aquachain[/url][/center]
+[center]send subscribe to [i]aquachain+subscribe[/i] at [i]googlegroups.com[/i][/center]
+
+[center][size=12pt][b]POOLS STATUS[/b][/size][/center]
+[center]
+https://aquacha.in/status/miners (Does not show Solo Miners)
+[/center]
+
+[center][size=12pt][b]MINING INFORMATION[/b][/size][/center]
+[center][url=https://aquacha.in/status/miners]Pool Hashrate Distribution[/url] | [url=https://explorer.aqua.signal2noi.se/stats/miner_hashrate]Hashrate Distribution Chart[/url] | [url=https://github.com/aquachain/open-aquachain-pool/blob/master/docs/TUTORIAL.md]How to make a pool[/url] | [url=https://bitcointalk.org/index.php?topic=5060509.0]AQUA Mining Thread[/url]
+
+[b]GPU Miner: https://github.com/monkins1010/aquacppminer/releases/latest[/b]
+
+CPU Miner:
+
+https://aquacha.in/latest/aquacppminer_v1.3.1_win32.zip
+https://aquacha.in/latest/aquacppminer_v1.3.1_win64.zip
+https://aquacha.in/latest/aquacppminer_v1.3.1_linux64.tar.gz
+https://aquacha.in/latest/aquacppminer_v1.3.1.1_linux64.tar.gz
+
+source code: https://github.com/aquachain/aquacppminer/
+
+978fddecfb6f27bb1b014fb1913e184165b4635c13d89f363c6d02e7245c2931  aquacppminer_v1.3.1.1_linux64.tar.gz
+8cfbb6217696d4e075150fa708bdc4992ce5c909d24fe3d898b06d6c35a3eb32  aquacppminer_v1.3.1_linux64.tar.gz
+9c5d89b19b3bf0643679cb41c0f8dc240bdd18ca64c8eb4c6c0d9faedefc6340  aquacppminer_v1.3.1_win.hash.txt
+2063ac85732ee3d5e8ba134d46a478b2fcb1c422c10cd92495a6c3b7752e8d4b  aquacppminer_v1.3.1_win32.zip
+7bb1a3dea14c863887fe39d85860dac35fb536706f9bf4390e4c5d80cdd7ec64  aquacppminer_v1.3.1_win64.zip
+
+[url=https://4miners.pro/cryptocurrencies/item/537-AQUA]Mining Calculator (4Miners)[/url]
+[url=https://docs.google.com/spreadsheets/d/1MIe8YDY8ORBDukZDmlrG6QQx1Fw0wckKZxh4pJUDAxw]Mining Calculator (google docs, experimental)[/url]
+[url=https://discord.gg/GmTnaZ8]Discord chat for help[/url]
+[/center]
+
+[center][size=12pt][b]BLOCK EXPLORERS[/b][/size][/center]
+[center]https://aquachain.github.io/explorer[/center]
+[center][url=http://explorer.aqua.signal2noi.se]http://explorer.aqua.signal2noi.se[/url][/center]
+
+[center][size=12pt][b]SOCIAL[/b][/size][/center]
+[center][url=https://t.me/AquaCrypto]Telegram Chat[/url][/center]
+[center][url=https://discord.gg/55a3tu9]Discord Chat[/url][/center]
+[center][url=https://reddit.com/r/aquachain]/r/aquachain[/url][/center]
+[center][url=https://twitter.com/aquacrypto]@aquacrypto[/url][/center]
+[center][url=https://groups.google.com/d/forum/aquachain]Mailing List[/url][/center]
+
+[center][size=12pt][b]WALLET HELP[/b][/size][/center]
+[center][b][url=https://gitlab.com/aquachain/aquachain/#compiling]Compiling[/url][/b][/center]
+[center][b]Wiki: [url=https://gitlab.com/aquachain/aquachain/wikis/Wallet]Wallet[/url][/b][/center]
+[center][b]Wiki: [url=https://gitlab.com/aquachain/aquachain/wikis/Mining]Mining[/url][/b][/center]
+
+[center][b] Report Bugs / Responsible Disclosure Information [/b]
+https://gitlab.com/aquachain/aquachain/wikis/Bugs
+
+[size=18pt]Aquachain has a [b]Public Auditable Supply[/b]!!!![/size]
+
+You can see for yourself at https://aquacha.in/supply (or more reliably from AQUA console, "[b]admin.supply()[/b]")[/center]
+
+[b]Aquachain HF Constitution[/b] (from the [url=https://aquachain.github.io/aquapaper.html]aquapaper[/url])
+
+By enforcing these HF limitations, we prevent manipulation of the aquachain economy. Rules should be easy to add, and should be difficult to remove one. (subject to change)
+
+    A HF will never be made to increase supply
+
+    A HF will never be made to censor or block a transaction
+
+    A HF will never be made to refund money.
+
+    A HF will never be made to benefit one or only a small subset of miners.
+
+    A HF will never be made to benefit one or only a small subset of users.
+
+    A HF will never be made for no good reason.
+
+    A HF will never be made when a simple upgrade could replace it.
+
+    A HF should be made as soon as possible if an "ASIC threat is realized"
+
+    A HF should be made as soon as possible if an exploit is found that can lead to an individual's profit or loss of funds.
+
+    A HF should be made as soon as possible if a "serious bug" is found in the core aquachain source code that can lead to loss of money for the average aquachain user.
+
+    If no HF are required, a scheduled hard fork shall be made to tweak the algorithm every 4 to 6 months, to prevent ASIC production.
+
+Enjoy CPU mining on Windows and Linux
+
+Download GUI wallet to make mnemonic phrase: https://download.mycrypto.com
+
+https://aquacha.in/latest/aquacppminer_v1.3.1_win32.zip
+https://aquacha.in/latest/aquacppminer_v1.3.1_win64.zip
+https://aquacha.in/latest/aquacppminer_v1.3.1_linux64.tar.gz
+https://aquacha.in/latest/aquacppminer_v1.3.1.1_linux64.tar.gz
+
+miner source code: https://github.com/aquachain/aquacppminer/
+reference miner (c): https://github.com/aquachain/aquaminer/
+reference miner(go): https://gitlab.com/aquachain/aquachain/tree/master/cmd/aquaminer
+argon2 mod library: https://github.com/aquachain/aquahash
+
+978fddecfb6f27bb1b014fb1913e184165b4635c13d89f363c6d02e7245c2931  aquacppminer_v1.3.1.1_linux64.tar.gz
+8cfbb6217696d4e075150fa708bdc4992ce5c909d24fe3d898b06d6c35a3eb32  aquacppminer_v1.3.1_linux64.tar.gz
+9c5d89b19b3bf0643679cb41c0f8dc240bdd18ca64c8eb4c6c0d9faedefc6340  aquacppminer_v1.3.1_win.hash.txt
+2063ac85732ee3d5e8ba134d46a478b2fcb1c422c10cd92495a6c3b7752e8d4b  aquacppminer_v1.3.1_win32.zip
+7bb1a3dea14c863887fe39d85860dac35fb536706f9bf4390e4c5d80cdd7ec64  aquacppminer_v1.3.1_win64.zip
+
+
+More about AQUA: https://aquacha.in - https://aquachain.github.io - https://telegra.ph/Aquachain-Resources-05-26
+
+Currently trading only at https://safe.trade/trading/aquabtc
+
+Volume may be low, so be very patient with your limit orders.
+
+Active (public) Pools: https://aquacha.in/status/miners  (make your own pool if you can, add to this json file)
