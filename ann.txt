@@ -43,13 +43,15 @@
 
 [center][size=12pt][b]TRADING[/b][/size][/center]
 [center][url=https://safe.trade/trading/aquabtc]SAFE TRADE[/url][/center]
+[center][url=https://asymetrex.com/markets/aquabtc]ASYMETREX[/url][/center]
 
 [center][size=12pt][b]SOURCE CODE[/b][/size][/center]
 [center][url=https://gitlab.com/aquachain/aquachain]Core[/url][/center]
 [center][url=https://github.com/aquachain]Extras[/url][/center]
 
 [center][size=12pt][b]AQUAPAPER[/b][/size][/center]
-[center][url=https://aquachain.github.io/aquapaper.html]https://aquachain.github.io/aquapaper.html[/url][/center]
+[center][url=https://aquacha.in/latest/aquapaper.pdf]Formal Specification[/url][/center]
+[center][url=https://aquachain.github.io/aquapaper.html]Hard Fork Constitution[/url][/center]
 
 [center][size=12pt][b]MAILING LIST[/b][/size][/center]
 [center][url=https://groups.google.com/d/forum/aquachain]https://groups.google.com/d/forum/aquachain[/url][/center]
